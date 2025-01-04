@@ -1,7 +1,7 @@
 # [RoastAI](https://www.RoastAI.xyz)
 
 ## Introduction 👀
-RoastAI is project dedicated to Roast people on twitter intergrated by levergaed AI on the Solana blockchain. The goal of RoastAI is to create an AI agent that monitors Twitter analyzes the content and based on the given data, based on Image recognition and the description aswell as the Profile poasted, roasting the Person.
+NEXIS is project dedicated to Roast people on twitter intergrated by levergaed AI on the Solana blockchain. The goal of RoastAI is to create an AI agent that monitors Twitter analyzes the content and based on the given data, based on Image recognition and the description aswell as the Profile poasted, roasting the Person.
 
 The AI agent continuously monitors Twitter to jump on Trends and give continiusly responds
 
@@ -30,8 +30,8 @@ Based on 🌐
 ---
 
  Resources 📋
-- TikTok API
-- Build Mantra API
+- Twitter API
+- Build on Nexis 
 - Arc-Rig
 
 ---
