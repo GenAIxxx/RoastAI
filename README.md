@@ -1,30 +1,46 @@
-Introduction 🧵
-Mantra is an innovative project that aims to bridge the gap between TikTok, Twitter, and the Solana blockchain by leveraging artificial intelligence. The goal of the project is to create an AI agent that monitors a unique TikTok FYP, analyzes the content, and automatically generates tweets based on those posts. By combining the trends and viral content from TikTok with the real-time conversation and engagement of Twitter, Mantra creates a seamless flow of content across these platforms.
+# [RoastAI](https://www.RoastAI.xyz)
 
-The AI agent continuously monitors TikTok's FYP, curating and summarizing posts, and then tweets out relevant insights, reactions, or commentary. This enhances social interaction, provides a new way of engaging with trends, and can even contribute to the growing ecosystem of blockchain and decentralized technology via integration with Solana.
+## Introduction 👀
+RoastAI is project dedicated to Roast people on twitter intergrated by levergaed AI on the Solana blockchain. The goal of RoastAI is to create an AI agent that monitors Twitter analyzes the content and based on the given data, based on Image recognition and the description aswell as the Profile poasted, roasting the Person.
 
-Features 🧲
-TikTok FYP Monitoring: The AI agent continuously analyzes content on TikTok's For You Page.
-Automated Tweets: Based on the monitored TikTok content, the AI generates contextually relevant tweets.
-Solana Integration: Future integration with Solana for decentralized content interaction and possible blockchain rewards.
-AI-powered Content Analysis: The AI uses natural language processing and image recognition to summarize and understand TikTok posts, then shares them on Twitter.
-Why Mantra? 💭
-Mantra opens up new opportunities for cross-platform engagement, allowing users to interact with trending TikTok content directly on Twitter. This creates an additional layer of social interaction, fostering a dynamic fusion of short-form video culture and text-based commentary. By utilizing Solana's blockchain, Mantra could explore decentralized features, rewards, and community-driven interactions in the future.
-Future Implematations 🌠
-Create Tiktok Account for Mantra
-Connect Tweets To Comments on TikTok
-Bridge To Youtube Shorts
-Knowledge 📚
-Open ai api
-ai16z eliza framwork
-Resources 🀄
-Tiktok API
-Build Mantra API
-Arc-Rig
-How to contribute:
+The AI agent continuously monitors Twitter to jump on Trends and give continiusly responds
+
+---
+
+## Features 💡
+- **AI generated Tweet responds**: Generating Quote-Tweets based on content seen on the Home page.
+- **Monitoring Trends**:Based on Trend Analytics ProfAI generates and adapts to them .
+- **Using AI**: We trimmed the AI to use exclusive language to offend Tweeters.
+- **Blockchain Intergration**: Future intergration using AI to maxamize Opertunity and leverage the scale of Big data.
+
+---
+
+## Future Implementations 🌠
+- Intergrating Warpcast
+- Intergrating diffrent language Models
+- Using a brider computer power to get the AI to maximize efficiency
+
+---
+
+Based on 🌐
+- OpenAI API
+- AI16z Eliza Framework
+- Custom Agent created by RoastAI
+
+---
+
+ Resources 📋
+- TikTok API
+- Build Mantra API
+- Arc-Rig
+
+---
+
+How to Work with us  🛠️
 Fork the repository.
-Create a feature branch (git checkout -b feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to your branch (git push origin feature-name).
+Create a branch: `git checkout -b feature-name`.
+Commit your changes: `git commit -am 'Add new feature'`.
+ Push to your branch: `git push origin feature-name`.
 Create a new Pull Request.
-Please ensure your code adheres to the project's style guidelines and passes all tests.
+
+Please ensure your code connects to the project's style and rules
