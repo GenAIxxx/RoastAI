@@ -37,10 +37,10 @@ Based on 🌐
 ---
 
 How to Work with us  🛠️
-Fork the repository.
-Create a branch: `git checkout -b feature-name`.
-Commit your changes: `git commit -am 'Add new feature'`.
- Push to your branch: `git push origin feature-name`.
-Create a new Pull Request.
+- Fork the repository.
+- Create a branch: `git checkout -b feature-name`.
+- Commit your changes: `git commit -am 'Add new feature'`.
+- Push to your branch: `git push origin feature-name`.
+- Create a new Pull Request.
 
 Please ensure your code connects to the project's style and rules
